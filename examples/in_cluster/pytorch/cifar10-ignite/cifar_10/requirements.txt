@@ -1,4 +1,4 @@
-numpy
+numpy==1.18.1
 scikit-learn
 git+https://github.com/pytorch/vision.git
 git+https://github.com/pytorch/ignite.git
